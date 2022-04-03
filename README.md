@@ -1,19 +1,19 @@
 # Open-Wing
 Documentation for a 3D printable open source rc glider
 -----------------------------------------------------------------------------------------------------------
-Please note that the Plane was previously called "Oso", which is still apparent in some of the file names
+Please note that the Plane was previously called "Oso", which is still apparent in some of the file names<br>
 This description is currently still in german, maybe a translation will follow...
 
 
-Eckdaten:
-Leicht gepfeilter Nurflügel
-Spannweite 2000mm
-1150 - 1600g (Je nach Komponenten und Ballast)
-32g/dm^2 - 43g/dm^2
-Geringes Transportmaß (dreiteilig)
-Vier Klappen
-3D Druck mit CFK Verstärkungen
-Reiner Segler (Bis jetzt ;) )
+Eckdaten:<br>
+Leicht gepfeilter Nurflügel<br>
+Spannweite 2000mm<br>
+1150 - 1600g (Je nach Komponenten und Ballast)<br>
+32g/dm^2 - 43g/dm^2<br>
+Geringes Transportmaß (dreiteilig)<br>
+Vier Klappen<br>
+3D Druck mit CFK Verstärkungen<br>
+Reiner Segler (Bis jetzt ;) )<br>
 
 
 Hallo zusammen,
