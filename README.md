@@ -22,7 +22,7 @@ nachdem ich ja schon vor einiger Zeit damit angefangen habe, Nurflügel mit 3D-D
 dass ich ein Modell zum Nachbau frei geben kann. Also hier ist der "Open Wing" - Tadaa!
 
 Wie man den Daten oben entnehmen kann, hat sich seit meinem ursprünglichen Versuch einen "immerdabei-Flieger" zu drucken, zumindest an den Anforderungen
-wenig geändert. (Diesen ersten Versuch findet man hier: Link EBOW)<br>
+wenig geändert. (Diesen ersten Versuch findet man hier: https://www.thermik-board.de/viewtopic.php?f=27&t=1872)<br>
 Kurz zusammengefasst geht es um einen Leistungsfähigen Allrounder, der durch einen dreiteiligen Flügel ein geringes Packmaß hat,
 und über Wölb / Bremsklappen verfügt, um auch an engen Spots fliegen, bzw. landen zu können.
 
