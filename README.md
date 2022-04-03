@@ -1,7 +1,7 @@
 # Open-Wing
 Documentation for a 3D printable open source rc glider
 -----------------------------------------------------------------------------------------------------------
-Thread in RCM Here: https://www.rc-network.de/threads/open-wing-ein-2m-allrounder-f%C3%BCr-jede-gelegenheit.11897828/
+Thread in RCM Here: https://www.rc-network.de/threads/open-wing-ein-2m-allrounder-f%C3%BCr-jede-gelegenheit.11897828/<br>
 Please note that the Plane was previously called "Oso", which is still apparent in some of the file names<br>
 This description is currently still in german, maybe a translation will follow...
 
