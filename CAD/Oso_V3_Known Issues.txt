@@ -1,0 +1,17 @@
+Oso V3
+
+Known Issues:
+Cutout for Spars could be a bit smaller
+Cutout for Servos could be a bit bigger
+10mm Pullwinded Tube does not have 8mm inner diameter
+Covers are too similar
+Glue holes over helling parts
+Support in R01 is difficult to remove
+Double launch hole not needed -> Screw fuse solution
+3mm Hole in VS is to small
+VS is too heavy
+COG is at 110, not at 113!
+
+
+V4:
+Channels for Servo wires dont match between R00 und R01
