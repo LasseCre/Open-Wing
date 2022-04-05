@@ -8,7 +8,7 @@ Youtube Video: https://www.youtube.com/watch?v=wmPPW6raG3g&ab_channel=LasseC
 
 ### Overview
 This is (becoming) the complete documentation for a 3d printable flying wing, including all the information that you need to print and build one yourself.
-I recommend to read the general [Manual](0_General Data/General Manual.md) before you start printing.
+I recommend to read the general [Manual]('0_General%20Data/General%20Manual.md') before you start printing.
 
 Style: Slightly swept plank  
 Wingspan: 2000mm  
