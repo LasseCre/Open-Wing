@@ -1,7 +1,17 @@
-Oso V3
+OpenWing V3
+
+
+09.04.2022 V3.1
+Changelog:
+Height for spar cutouts changed to 0.7mm
+Width for spar cutouts changed to
+Battery compartment height changed to 11.5mm
+Changed CG Holes to 110mm D1,5mm
+Changed fuselage diameter to 9.5mm for BRUXX Arrowshaft
+Changed Servo Cutout for X-612 in width (+0.25mm)
 
 Known Issues:
-Cutout for Spars could be a bit smaller
+~~Cutout for Spars could be a bit smaller~~  
 Cutout for Servos could be a bit bigger
 10mm Pullwinded Tube does not have 8mm inner diameter and is hard to get, change to arrow shaft!
 Covers are too similar
