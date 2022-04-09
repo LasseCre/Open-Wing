@@ -11,7 +11,7 @@ Missing opportunity for internal ballast in CG
 Height for spar cutouts changed from 0.8mm to 0.7mm  
 Width for spar cutouts changed to 10.4mm  
 Battery compartment height changed from 11mm to 11.5mm  
-Changed CG Holes from 109mm to 110mm D1,5mm  
+Changed CG Holes from 109mm to 109.5mm D1,5mm  
 Changed fuselage diameter from 10.5mm to 9.5mm for BRUXX Arrowshaft  
 Changed Servo Cutout for X-612 in width (+0.25mm)  
 Widened the hole for the 3mm CF tube in the vertical stabilizer from 3.2mm to 3.25mm  
@@ -43,3 +43,4 @@ Helling could be better -> Self securing
 V4:  
 Channels for Servo wires dont match between R00 und R01  
 Glue Holes could be smaller  
+Change CG-Holes to 109.5mm
