@@ -12,6 +12,7 @@ Changed Servo Cutout for X-612 in width (+0.25mm)
 Widened the hole for the 3mm CF tube in the vertical stabilizer from 3.2mm to 3.25mm  
 Cutout for servo wire in R01 was made slightly shallower to make support removal easier  
 Glue holes over helling parts removed  
+Reduced gluehole size from 2mm to 1mm
 
 "Vliesscharniere":  
 Pushed rear spars 10mm forward to make space for them  
