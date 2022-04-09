@@ -3,8 +3,8 @@
 ## Changelog:  
 
 Known Issues:  
-Missing internal tubes for receiver antenna
-Missing opportunity for internal ballast in CG
+Missing internal tubes for receiver antenna  
+Missing opportunity for internal ballast in CG  
 
 
 09.04.2022 V3.1  
