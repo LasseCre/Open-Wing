@@ -1,8 +1,8 @@
 # OpenWing V3
 
+## Changelog:  
 
-## 09.04.2022 V3.1
-Changelog:  
+09.04.2022 V3.1
 Height for spar cutouts changed from 0.8mm to 0.7mm  
 Width for spar cutouts changed to 10.4mm  
 Battery compartment height changed from 11mm to 11.5mm  
