@@ -2,6 +2,11 @@
 
 ## Changelog:  
 
+Known Issues:  
+Missing internal tubes for receiver antenna  
+Missing opportunity for internal ballast in CG  
+
+
 09.04.2022 V3.1  
 Height for spar cutouts changed from 0.8mm to 0.7mm  
 Width for spar cutouts changed to 10.4mm  
