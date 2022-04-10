@@ -3,6 +3,7 @@
 ## Changelog:  
 
 Known Issues:  
+Helling Parts should have names on them!  
 Cura files / slicing needs to be done  
 Gcodes need to be exported  
 Not YET TESTED!  
