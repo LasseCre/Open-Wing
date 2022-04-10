@@ -3,7 +3,6 @@
 ## Changelog:  
 
 Known Issues:  
-STLs need to be reexported  
 Cura files / slicing needs to be done  
 Gcodes need to be exported  
 Not YET TESTED!  
