@@ -34,7 +34,7 @@ Therefore the data in the project is structured as follows:
   - **Stuff** | *Pictures + random stuff thats not fitting anywhere else*
 
 - **V3** | *Everything related specificly to OpenWing V3*
-  - **Manual V3** | *Manual reagrding everything thats special about V3*
+  - **Manuals V3** | *Manual reagrding everything thats special about V3*
   - **Order List** | *List containing all the items you need and sources where you can buy it*
   - **Print** | *Files that are directly related to printing*
     - **Cura files** | *Cura files that are ready to slice*
