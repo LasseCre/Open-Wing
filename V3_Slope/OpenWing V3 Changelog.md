@@ -1,20 +1,21 @@
-# OpenWing V3
+# OpenWing_V3_Slope
 
 ## Changelog:  
 
-Known Issues:
-STLs need to be reexported
-Cura files / slicing needs to be done
-Gcodes need to be exported
-Not YET TESTED!
+Known Issues:  
+Ballast Material missing in Order List  
+Helling Parts should have names on them!  
+Cura files / slicing needs to be done  
+Gcodes need to be exported  
+Not YET TESTED!  
 
-10.04.2022 V3_Slope
-Changed V3.1 and V3 to V3_Slope  
-Changed fuselage diameter from 9.5mm for BRUXX Arrowshaft back to 10.5mm for proper tube
-Added internal tubes for ballast in CG
-Added internal antenna tubes
-Marked covers for identification
-Added Option for fixation on helling parts
+10.04.2022 V3_Slope  
+Changed V3.1 and V3 to V3_Slope   
+Changed fuselage diameter from 9.5mm for BRUXX Arrowshaft back to 10.5mm for proper tube  
+Added internal tubes for ballast in CG  
+Added internal antenna tubes  
+Marked covers for identification  
+Added Option for fixation on helling parts  
 
 Known Issues:  
 ~~Missing internal tubes for receiver antenna~~  
