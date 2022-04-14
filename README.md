@@ -16,7 +16,7 @@ Weight: 1150 - 1600g (Depending on Configuration)
 Wingloading: 32g/dm^2 - 43g/dm^2  
 Material: PLA
 Print Time: Approx. 10 Days  
-Small package size (three part wing)  
+Small transport size (three part wing)  
 Quadroflap  
 Lots of carbon reinforcement  
 Sailplane for now  
