@@ -2,12 +2,19 @@
 
 ## Changelog:  
 
+14.04.2022 V3_SLope  
+Added Naming on Helling Parts  
+Exported Helling Parts
+Added Cura Files of all parts  
+Added G-Codes of all parts  
+Uploaded new Order List with ballast Material  
+Not YET TESTED!   
+
 Known Issues:  
-Ballast Material missing in Order List  
-Helling Parts should have names on them!  
-Cura files / slicing needs to be done  
-Gcodes need to be exported  
-Not YET TESTED!  
+~~Ballast Material missing in Order List~~    
+~~Helling Parts should have names on them!~~    
+~~Cura files / slicing needs to be done~~    
+~~Gcodes need to be exported~~  
 
 10.04.2022 V3_Slope  
 Changed V3.1 and V3 to V3_Slope   
@@ -20,7 +27,6 @@ Added Option for fixation on helling parts
 Known Issues:  
 ~~Missing internal tubes for receiver antenna~~  
 ~~Missing opportunity for internal ballast in CG~~  
-
 
 09.04.2022 V3.1  
 Height for spar cutouts changed from 0.8mm to 0.7mm  
