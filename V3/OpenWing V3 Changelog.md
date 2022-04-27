@@ -2,13 +2,18 @@
 
 ## Changelog:  
 
+Known Issues:  
+Mistake in printing oder in cura file "CCR10_OpenWing_V3_Slope_InnerWing.3mf", maybe also in depending G-Code Files - Check and Correct!  
+(Panel R01.0, Right side...)  
+
 14.04.2022 V3_SLope  
 Added Naming on Helling Parts  
 Exported Helling Parts
 Added Cura Files of all parts  
 Added G-Codes of all parts  
 Uploaded new Order List with ballast Material  
-Not YET TESTED!   
+~~NOT YET TESTED!~~
+Test in Progress  
 
 Known Issues:  
 ~~Ballast Material missing in Order List~~    
