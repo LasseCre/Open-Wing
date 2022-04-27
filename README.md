@@ -3,7 +3,8 @@
 -----------------------------------------------------------------------------------------------------------
 ### Related Links:  
 Thread in RCN: https://www.rc-network.de/threads/open-wing-ein-2m-allrounder-f%C3%BCr-jede-gelegenheit.11897828/  
-Youtube Video: https://www.youtube.com/watch?v=wmPPW6raG3g&ab_channel=LasseC
+Youtube Video: https://www.youtube.com/watch?v=wmPPW6raG3g&ab_channel=LasseC  
+Contact me by opening an Issue here, or leave me a message at RC-Network or RC-Groups...  
 
 
 ### Overview
@@ -29,7 +30,7 @@ Therefore the data in the project is structured as follows:
 
 - **0_General Data** | *Everything that applies to all Versions*
 - **V3_Slope** | *Sturdy and a little heavier, perfect for sloping and high speeds - Everything Ready!*
-- **V4_Allround** | *The perfect wing to fly all the time - Light enough for light conditions, and strong enough to have fun with... - Available on demand*
+- **V4_Allround** | *The perfect wing to fly all the time, my personal favourite! - Available on demand*
 - **V5_Convenience** | *Some measures taken, to make printing and assembly as easy as possible! - In Progress!*  
 - **X_Deprecated** | *Old data that is kept only for nostalgic reasons*  
 
