@@ -4,6 +4,7 @@
 
 Known Issues:  
 Mistake in printing oder in cura file "CCR10_OpenWing_V3_Slope_InnerWing.3mf", maybe also in depending G-Code Files - Check and Correct!  
+(Panel R01.0, Right side...)  
 
 14.04.2022 V3_SLope  
 Added Naming on Helling Parts  
