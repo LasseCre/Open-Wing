@@ -12,7 +12,8 @@ Exported Helling Parts
 Added Cura Files of all parts  
 Added G-Codes of all parts  
 Uploaded new Order List with ballast Material  
-Not YET TESTED!   
+~~NOT YET TESTED!~~
+Test in Progress  
 
 Known Issues:  
 ~~Ballast Material missing in Order List~~    
