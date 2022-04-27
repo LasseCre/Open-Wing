@@ -28,36 +28,10 @@ There are different versions available which differ in weigth and components, bu
 Therefore the data in the project is structured as follows:  
 
 - **0_General Data** | *Everything that applies to all Versions*
-  - **General Manual** | *Generalized Manual with a brief description to describe the way the plane is built*
-  - **Aerodynamics** | *Profile coordinates, FLZ Files*
-  - **3D** | *CAD files of the aerodynamic Body*
-  - **Stuff** | *Pictures + random stuff thats not fitting anywhere else*
-
-- **V3** | *Everything related specificly to OpenWing V3*
-  - **Manuals V3** | *Manual reagrding everything thats special about V3*
-  - **Order List** | *List containing all the items you need and sources where you can buy it*
-  - **Print** | *Files that are directly related to printing*
-    - **Cura files** | *Cura files that are ready to slice*
-    - **Ender3-DD-GCodes** | *GCodes for PLA on Ender 3 with direct drive*
-    - **Ender3-GCodes** | *GCodes for PLA on Ender 3*
-  - **3D** | *All files containing 3D geometry*
-    - **SWX** | *Solidworks files*
-    - **Step** | *Step files*
-    - **STL** | *Stl files*
- 
-- **V4** | *Everything related specificly to OpenWing V4*
-  - **Manual V4** | *Manual reagrding everything thats special about V4*
-  - **Order List** | *List containing all the items you need and sources where you can buy it*
-  - **Print** | *Files that are directly related to printing*
-    - **Cura files** | *Cura files that are ready to slice*
-    - **Ender3-DD-GCodes** | *GCodes for PLA on Ender 3 with direct drive*
-    - **Ender3-GCodes** | *GCodes for PLA on Ender 3*
-  - **3D** | *All files containing 3D geometry*
-    - **SWX** | *Solidworks files*
-    - **Step** | *Step files*
-    - **STL** | *Stl files*
-
-X_Deprecated // Old data that is kept only for nostalgic reasons
+- **V3_Slope** | *Sturdy and a little heavier, perfect for sloping and high speeds - Everything Ready!*
+- **V4_Allround** | *The perfect wing to fly all the time - Light enough for light conditions, and strong enough to have fun with... - Available on demand*
+- **V5_Convenience** | *Some measures taken, to make printing and assembly as easy as possible! - In Progress!*  
+- **X_Deprecated** | *Old data that is kept only for nostalgic reasons*  
 
 
 
