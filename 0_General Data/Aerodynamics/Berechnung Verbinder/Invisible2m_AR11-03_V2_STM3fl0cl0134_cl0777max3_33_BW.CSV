@@ -1,0 +1,122 @@
+FLZ_VORTEX Vers. 01.217 15.08.2016
+29.05.2022 07:28:47
+BW-F-ANZ;Anzahl Flugzeuge;1
+BW-F-0-1;Name des Konstrukteurs;Noname
+BW-F-0-2;Bezeichnung Flugzeug;Noname
+BW-F-0-3;Anstellwinkel des Flugzeugs [°];6.80235
+BW-F-0-4;Schiebewinkel des Flugzeugs [°];0.00000
+BW-F-0-5;Gesamtmasse des Flugzeugs [kg];120.00000
+BW-F-0-6;Gesamt-Oberfläche (F_ges) des Flugzeugs [m^2];0.36275
+BW-F-0-7;Auftriebserzeugende Fläche (Fa) des Flugzeugs [m^2];0.36275
+BW-F-0-8;Seitenkraft erzeugende Fläche (FY) des Flugzeugs [m^2];0.00000
+BW-F-0-9;Momentenbezugslänge l_my, mittlere Bezugsflügeltiefe aller Tragflächen [m];0.18691
+BW-F-0-10;Flächenbelastung (Bezug Auftriebserzeugende Fläche Fa ) [kg/m^2];330.80773
+BW-F-0-11;Flächenbelastung (Bezug Auftriebserzeugende Fläche Fa ) [g/dm^2];3308.07729
+BW-F-0-12;Auftriebsbeiwert (CA_ges) des Flugzeugs (Bezugsfläche ist Fa des Flugzeugs);0.67392
+BW-F-0-13;Seitenkraftbeiwert (CY_ges) des Flugzeugs (Bezugsfläche ist FY des Flugzeugs);0.00000
+BW-F-0-14;Gesamter induzierter Widerstandsbeiwert (CWI_ges) des Flugzeugs (Bezugsfläche ist F_ges des Flugzeugs);0.01305
+BW-F-0-15;Widerstand durch Profil-Reibung (CW_visc)  (Bezugsfläche ist F_ges des Flugzeugs);0.00818
+BW-F-0-16;Interferenzwiderstand (Cw_int)  (Bezugsfläche ist F_ges des Flugzeugs);0.00000
+BW-F-0-17;Rumpfwiderstand (Cw_rumpf)  (Bezugsfläche ist die Rumpfquerschnittsfläche F_rumpf);0.00000
+BW-F-0-18;Gesamtwiderstand (CW_ges) = Cwi + Cw_visc + Cw_int + Cw_rumpf (Bezugsfläche ist F_ges des Flugzeugs);0.02123
+BW-F-0-19;Gleitzahl (E) des Flugzeugs;31.74298
+BW-F-0-20;Steigzahl (epsilon) des Flugzeugs;26.05867
+BW-F-0-21;Gleitwinkel des Flugzeugs;1.80439
+BW-F-0-22;Sinkgeschwindigkeit (vs) des Flugzeugs [m/s];2.79280
+BW-F-0-23;Fluggeschwindigkeit (v) des Flugzeugs [m/s];88.65175
+BW-F-0-24;Nickmomentbeiwert (CM_ZP) des Flugzeugs (Bezugsfläche ist Fa des Flugzeugs);-0.39512
+BW-F-0-25;Giermomentbeiwert (CN_ZP) des Flugzeugs (Bezugsfläche ist F_ges des Flugzeugs);0.00000
+BW-F-0-26;Rollmomentbeiwert (CL_ZP) des Flugzeugs (Bezugsfläche ist F_ges des Flugzeugs);-0.00000
+BW-F-0-27;Nickmomentbeiwert (CM_XS) des Flugzeugs (Bezugsfläche ist Fa des Flugzeugs);0.00058
+BW-F-0-28;Giermomentbeiwert (CN_XS) des Flugzeugs (Bezugsfläche ist F_ges des Flugzeugs);0.00000
+BW-F-0-29;Rollmomentbeiwert (CL_XS) des Flugzeugs (Bezugsfläche ist F_ges des Flugzeugs);-0.00000
+BW-F-0-30;Auftriebsanstieg im Bereich des Anstellwinkels;5.03802
+BW-F-0-31;Druckpunktrücklage DPX ab dem Flugzeug-Nullpunkt in X-Richtung [m];0.10975
+BW-F-0-32;Druckpunkthochlage DPZ ab dem Flugzeug-Nullpunkt in Z-Richtung [m];0.00530
+BW-F-0-33;Schwerpunktlage (XS) ab dem Flugzeug-Nullpunkt in X-Richtung [m];0.10975
+BW-F-0-34;Neutralpunktlage (XN) ab dem Flugzeug-Nullpunkt in X-Richtung [m];0.11645
+BW-F-0-35;Stabilitätsmaß in % der Bezugsflügeltiefe l_my [%];3.58411
+BW-F-0-36;Auftriebskraft (A) [N];1176.78000
+BW-F-0-37;Widerstandskraft (W) [N];37.07214
+BW-F-0-38;Seitenkraft (Y) [N];0.00000
+BW-F-0-39;Nickmoment um den Flugzeug-Nullpunkt (M_ZP) [Nm];-128.95452
+BW-F-0-40;Giermoment um den Flugzeug-Nullpunkt (N_ZP) [Nm];0.00000
+BW-F-0-41;Rollmoment um den Flugzeug-Nullpunkt (L_ZP) [Nm];0.00000
+BW-F-0-42;Nickmoment um den Schwerpunkt (M_XS) [Nm];0.19583
+BW-F-0-43;Giermoment um den Schwerpunkt (N_XS) [Nm];0.00000
+BW-F-0-44;Rollmoment um den Schwerpunkt (L_XS) [Nm];0.00000
+BW-F-0-FL_ANZ;Anzahl Flügel;1
+BW-F-0-FL-0-1;Bezeichnung Flügel;Invisible2m_AR11.03_V2
+BW-F-0-FL-0-2;Gesamt-Oberfläche (F_ges) des Flügels [m^2];0.36275
+BW-F-0-FL-0-3;Auftriebserzeugende Fläche (Fa) des Flügels [m^2];0.36275
+BW-F-0-FL-0-4;Seitenkrafterzeugende Fläche (Fy) des Flügels [m^2];0.00000
+BW-F-0-FL-0-5;Spannweite (b) des Flügels [m];2.00000
+BW-F-0-FL-0-6;Streckung (Lamda) des Flügels  (b * b / Fa des Flügels);11.02692
+BW-F-0-FL-0-7;Bezugsflügeltiefe (l_my) des Flügels (mittlere Aerodynamische Flügeltiefe) [m];0.18691
+BW-F-0-FL-0-8;Auftriebsbeiwert (CA) des Flügels (Bezugsfläche ist Fa des Flügels);0.67392
+BW-F-0-FL-0-9;Seitenkraftbeiwert (Cy) des Flügels (Bezugsfläche ist Fy des Flügels);0.00000
+BW-F-0-FL-0-10;Induzierter Widerstand (Cwi) der Auftriebserzeugenden Flügelteile (Bezugsfläche ist Fa des Flügels);0.01305
+BW-F-0-FL-0-11;Gesamter induzierter Widerstandsbeiwert (Cwi_ges) des Flügels (Bezugsfläche ist F_ges des Flügels);0.01305
+BW-F-0-FL-0-12;Induzierter Widerstand (Cwi_ell) der elliptischen Vergleichsfläche (Ca * Ca / Pi / Lamda);0.01311
+BW-F-0-FL-0-13;Güte (k-Faktor) des Flügels (Cwi / Cwi_ell);0.99572
+BW-F-0-FL-0-14;Widerstand durch Reibung (Cw_visc) des Flügels (Bezugsfläche ist F_ges des Flügels);0.00818
+BW-F-0-FL-0-15;Gesamtwiderstand (Cw_ges) des Flügels (Bezugsfläche ist F_ges des Flügels);0.02123
+BW-F-0-FL-0-16;Gleitzahl (E) des Flügels;31.74298
+BW-F-0-FL-0-17;Steigzahl (epsilon) des Flügels;26.05867
+BW-F-0-FL-0;Lokale Beiwerte normal (im rechten Winkel) zum Flügelschnitt:
+BW-F-0-FL-0-ANZ_PAN_Y;Anzahl Panels;54
+BW-F-0-FL-0-PanNr.;;gamma;Ca;Cwi;ai;Re;Tiefe[m];Breite[m];SegNr.;Ca_min;Ca_max;stall_up;stall_lo;Cw_visc;BL_w_o;BL_w_u
+BW-F-0-FL-0-P0;;0.01439;0.62553;-0.04728;-4.33063;285142;0.04600;0.01200;0;-0.80301;0.88422;0;0;0.03279;0;0
+BW-F-0-FL-0-P1;;0.02144;0.54507;-0.01057;-1.11155;487708;0.07867;0.02000;1;-0.84180;0.92525;0;0;0.01123;0;0
+BW-F-0-FL-0-P2;;0.02782;0.51283;-0.00159;-0.17709;672685;0.10851;0.04000;2;-0.94845;0.89510;0;0;0.01001;0;0
+BW-F-0-FL-0-P3;;0.03403;0.50837;0.00217;0.24458;829974;0.13388;0.04000;3;-0.94521;0.91713;0;0;0.00915;0;0
+BW-F-0-FL-0-P4;;0.03885;0.51715;0.00381;0.42164;931369;0.15023;0.04000;4;-0.95679;0.93158;0;0;0.00880;0;0
+BW-F-0-FL-0-P5;;0.04267;0.52961;0.00450;0.48661;998893;0.16113;0.03867;5;-0.96446;0.94076;0;0;0.00851;0;0
+BW-F-0-FL-0-P6;;0.04582;0.54073;0.00500;0.53023;1050744;0.16949;0.03867;5;-0.96843;0.94641;0;0;0.00839;0;0
+BW-F-0-FL-0-P7;;0.04848;0.55063;0.00558;0.58081;1091745;0.17610;0.03867;6;-0.97166;0.95141;0;0;0.00831;0;0
+BW-F-0-FL-0-P8;;0.05080;0.56138;0.00569;0.58107;1121894;0.18097;0.03867;6;-0.97468;0.95538;0;0;0.00828;0;0
+BW-F-0-FL-0-P9;;0.05282;0.57150;0.00593;0.59438;1145923;0.18484;0.03867;7;-0.97766;0.95898;0;0;0.00825;0;0
+BW-F-0-FL-0-P10;;0.05464;0.58211;0.00588;0.57921;1163831;0.18773;0.03867;7;-0.98061;0.96225;0;0;0.00825;0;0
+BW-F-0-FL-0-P11;;0.05632;0.59251;0.00598;0.57825;1178515;0.19010;0.03867;8;-0.98222;0.96454;0;0;0.00825;0;0
+BW-F-0-FL-0-P12;;0.05793;0.60364;0.00596;0.56527;1189976;0.19195;0.03867;8;-0.98295;0.96527;0;0;0.00825;0;0
+BW-F-0-FL-0-P13;;0.05953;0.61470;0.00610;0.56823;1200851;0.19370;0.03867;9;-0.98363;0.96598;0;0;0.00823;0;0
+BW-F-0-FL-0-P14;;0.06122;0.62676;0.00626;0.57263;1211140;0.19536;0.03867;9;-0.98428;0.96665;0;0;0.00821;0;0
+BW-F-0-FL-0-P15;;0.06310;0.64028;0.00701;0.62765;1221866;0.19709;0.03867;10;-0.98498;0.96736;0;0;0.00815;0;0
+BW-F-0-FL-0-P16;;0.06541;0.65806;0.00804;0.69979;1232443;0.19880;0.03867;11;-0.98569;0.96807;0;0;0.00808;0;0
+BW-F-0-FL-0-P17;;0.06875;0.68688;0.01039;0.86651;1241072;0.20019;0.03867;12;-0.98646;0.96842;0;0;0.00792;0;0
+BW-F-0-FL-0-P18;;0.07630;0.75922;0.02144;1.61774;1246039;0.20099;0.03867;13;-0.78289;1.16692;0;0;0.00775;0;0
+BW-F-0-FL-0-P19;;0.07939;0.78804;0.02422;1.76106;1249162;0.20150;0.04267;14;-0.78307;1.16710;0;0;0.00756;0;0
+BW-F-0-FL-0-P20;;0.08132;0.80645;0.02508;1.78156;1250239;0.20167;0.04267;15;-0.78308;1.16704;0;0;0.00756;0;0
+BW-F-0-FL-0-P21;;0.08264;0.81953;0.02566;1.79383;1250299;0.20168;0.04267;15;-0.78304;1.16684;0;0;0.00757;0;0
+BW-F-0-FL-0-P22;;0.08361;0.82911;0.02620;1.81045;1250339;0.20169;0.04267;16;-0.78300;1.16646;0;0;0.00758;0;0
+BW-F-0-FL-0-P23;;0.08431;0.83605;0.02663;1.82505;1250360;0.20169;0.04267;16;-0.78261;1.16628;0;0;0.00759;0;0
+BW-F-0-FL-0-P24;;0.08472;0.83977;0.02770;1.88976;1250911;0.20178;0.04267;17;-0.78255;1.16563;0;0;0.00760;0;0
+BW-F-0-FL-0-P25;;0.08480;0.83987;0.02810;1.91702;1251912;0.20194;0.04267;18;-0.78313;1.16433;0;0;0.00763;0;0
+BW-F-0-FL-0-P26;;0.08368;0.82765;0.02204;1.52589;1253615;0.20222;0.00800;19;-0.92653;1.03055;0;0;0.00758;0;0
+BW-F-0-FL-0-P27;;0.08368;0.82765;0.02204;1.52589;1253615;0.20222;0.00800;20;-0.92653;1.03055;0;0;0.00758;0;0
+BW-F-0-FL-0-P28;;0.08480;0.83987;0.02810;1.91702;1251912;0.20194;0.04267;21;-0.78313;1.16433;0;0;0.00763;0;0
+BW-F-0-FL-0-P29;;0.08472;0.83977;0.02770;1.88976;1250911;0.20178;0.04267;22;-0.78255;1.16563;0;0;0.00760;0;0
+BW-F-0-FL-0-P30;;0.08431;0.83605;0.02663;1.82505;1250360;0.20169;0.04267;23;-0.78261;1.16628;0;0;0.00759;0;0
+BW-F-0-FL-0-P31;;0.08361;0.82911;0.02620;1.81045;1250339;0.20169;0.04267;23;-0.78300;1.16646;0;0;0.00758;0;0
+BW-F-0-FL-0-P32;;0.08264;0.81953;0.02566;1.79383;1250299;0.20168;0.04267;24;-0.78304;1.16684;0;0;0.00757;0;0
+BW-F-0-FL-0-P33;;0.08132;0.80645;0.02508;1.78156;1250239;0.20167;0.04267;24;-0.78308;1.16704;0;0;0.00756;0;0
+BW-F-0-FL-0-P34;;0.07939;0.78804;0.02422;1.76106;1249162;0.20150;0.04267;25;-0.78307;1.16710;0;0;0.00756;0;0
+BW-F-0-FL-0-P35;;0.07630;0.75922;0.02144;1.61774;1246039;0.20099;0.03867;26;-0.78289;1.16692;0;0;0.00775;0;0
+BW-F-0-FL-0-P36;;0.06875;0.68688;0.01039;0.86651;1241072;0.20019;0.03867;27;-0.98646;0.96842;0;0;0.00792;0;0
+BW-F-0-FL-0-P37;;0.06541;0.65806;0.00804;0.69979;1232443;0.19880;0.03867;28;-0.98569;0.96807;0;0;0.00808;0;0
+BW-F-0-FL-0-P38;;0.06310;0.64028;0.00701;0.62765;1221866;0.19709;0.03867;29;-0.98498;0.96736;0;0;0.00815;0;0
+BW-F-0-FL-0-P39;;0.06122;0.62676;0.00626;0.57263;1211140;0.19536;0.03867;30;-0.98428;0.96665;0;0;0.00821;0;0
+BW-F-0-FL-0-P40;;0.05953;0.61470;0.00610;0.56823;1200851;0.19370;0.03867;30;-0.98363;0.96598;0;0;0.00823;0;0
+BW-F-0-FL-0-P41;;0.05793;0.60364;0.00596;0.56527;1189976;0.19195;0.03867;31;-0.98295;0.96527;0;0;0.00825;0;0
+BW-F-0-FL-0-P42;;0.05632;0.59251;0.00598;0.57825;1178515;0.19010;0.03867;31;-0.98222;0.96454;0;0;0.00825;0;0
+BW-F-0-FL-0-P43;;0.05464;0.58211;0.00588;0.57921;1163831;0.18773;0.03867;32;-0.98061;0.96225;0;0;0.00825;0;0
+BW-F-0-FL-0-P44;;0.05282;0.57150;0.00593;0.59438;1145923;0.18484;0.03867;32;-0.97766;0.95898;0;0;0.00825;0;0
+BW-F-0-FL-0-P45;;0.05080;0.56138;0.00569;0.58107;1121894;0.18097;0.03867;33;-0.97468;0.95538;0;0;0.00828;0;0
+BW-F-0-FL-0-P46;;0.04848;0.55063;0.00558;0.58081;1091745;0.17610;0.03867;33;-0.97166;0.95141;0;0;0.00831;0;0
+BW-F-0-FL-0-P47;;0.04582;0.54073;0.00500;0.53023;1050744;0.16949;0.03867;34;-0.96843;0.94641;0;0;0.00839;0;0
+BW-F-0-FL-0-P48;;0.04267;0.52961;0.00450;0.48661;998893;0.16113;0.03867;34;-0.96446;0.94076;0;0;0.00851;0;0
+BW-F-0-FL-0-P49;;0.03885;0.51715;0.00381;0.42164;931369;0.15023;0.04000;35;-0.95679;0.93158;0;0;0.00880;0;0
+BW-F-0-FL-0-P50;;0.03403;0.50837;0.00217;0.24458;829974;0.13388;0.04000;36;-0.94521;0.91713;0;0;0.00915;0;0
+BW-F-0-FL-0-P51;;0.02782;0.51283;-0.00159;-0.17709;672685;0.10851;0.04000;37;-0.94845;0.89510;0;0;0.01001;0;0
+BW-F-0-FL-0-P52;;0.02144;0.54507;-0.01057;-1.11155;487708;0.07867;0.02000;38;-0.84180;0.92525;0;0;0.01123;0;0
+BW-F-0-FL-0-P53;;0.01439;0.62553;-0.04728;-4.33063;285142;0.04600;0.01200;39;-0.80301;0.88422;0;0;0.03279;0;0
