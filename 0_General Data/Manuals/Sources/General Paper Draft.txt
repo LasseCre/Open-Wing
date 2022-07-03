@@ -1,0 +1,105 @@
+OpenWing
+
+Konstruktion und Bau von 3D-gedruckten Nurflügeln am Beispiel eines 2 Meter Seglers
+
+
+3D-Druck stellt eine neue Fertigungsmethode dar, die in vielen Anwendungsbereichen neue Lösungen verspricht, so auch im Modellbau. Wie bei allen anderen Herstellungsmethoden gibt es jedoch verschiedene Vor- und Nachteile, die bei der Konstruktion möglichst gut ausgespielt, bzw. abgefangen werden sollten. In den letzten vier Jahren habe ich zahlreiche Nurflügelmodelle für die Herstellung mittels 3D-Druck konstruiert, gebaut und getestet, und möchte im folgenden meine Erfahrungen im Bezug auf dieses Herstellungsverfahren schildern. Der Fokus liegt hierbei eher darauf einen möglichen Weg zu zeigen, mit dem alltagstaugliche Modelle entstehen können, als darauf alle möglichen Konstruktionswege und 3D-Druckverfahren abzudecken.
+Hierfür möchte ich am Beispiel des OpenWings, einem leicht gepfeiltem 2m Brett, den kompletten Ablauf von Konstruktion bis Erstflug einmal durchgehen. Die aerodynamische Auslegung von Nurflügeln wird nicht mit beschrieben, das vorliegen eines fertigen Entwurfs ist die Ausgangsvoraussetzung für den hier beschriebenen Ablauf.
+
+Hier ein grober Überblick der verwendeten Parameter:
+Nurflügelmodelle mit einer Spannweite von 900mm - 2000mm
+Gewicht zwischen 250g - 2000g
+Vorwiegend Segler (ohne Rumpf)
+
+Fertig vorliegende aerodynamische Auslegung
+Konstruktion mittels parametrischem CAD
+Klassische Elektronik aus dem Modellbau
+Herstellung mittels FDM Drucker
+Materialmix aus PLA und CFK verstärkungen
+
+
+Warum sollte man überhaupt ein Modell 3D-Drucken?
+Das Bauen von Flugzeugen mittels 3D-Druck bietet einige Eigenschaften, die in ihrer Kombination interessante Vorteile gegenüber anderen Bauweisen bieten. So können mit 3D-Druck beispielsweise 3D-gekrümmte Oberflächen präziser als beim Positiv- oder Rippenbau hergestellt werden, ohne dabei den Kosten- und Arbeitsaufwand wie beim Bau aus Formen mit sich zu bringen. Außerdem lassen sich im 3D-Druck viele geometrische Features direkt im CAD umsetzen, so dass beim Aufbau wesentliche Arbeitsschritte, wie beispielsweise das Fräsen von Gestängedurchbrüchen, das Einkleben von Servorahmen, oder das Positionieren von Holmgurten, entfallen. Ein weiterer Aspekt ist, dass Dateien einfach ausgetauscht werden können, und somit die Zusammenarbeit and einem Projekt, oder auch das Nachbauen von Flugzeugen, global möglich wird. (Hierbei gibt es allerdings Einschränkungen durch die Verfügbarkeit von Anbauteilen, so sind zum Beispiel zöllische Schraueben oder CFK-Profile in Deutschland nur schwierig zu kriegen)
+Andererseits gibt es jedoch auch einige wesentliche Nachteile, wie zum Beispiel die Einschränkungen, die durch die verfügbaren Materialien entstehen. Zumindest im FDM Druck lassen sich nur thermoplastische Kunststoffe (wenn auch teilweise mit kurzfaser Verstärkungen) drucken, bei denen das Verhältnis von Gewicht zu Festigkeit deutlich schlechter ist, als dies zum Beispiel bei CFK oder auch Fichtenholz oder Balsaholz, der Fall ist. Außerdem müssen alle wesentlichen geometrischen Oberflächen bereits im CAD mit konstruiert werden, da spontane Änderungen am fertigen Modell oft nur sehr schwer sauber umzusetzen sind.
+
+Zusammengefasst nochmal die Vor- und Nachteile:
+3D-gekrümmte Oberflächen können mit hoher Präzision hergestellt werden
+Die Werkzeuge und das Verfahren sind sehr günstig
+Es können sehr einfach Einzelstücke gebaut werden
+3D-gedruckte Materialien haben ein schlechtes Gewichts / Festigkeitsverhältnis
+3D-gedruckte Materialien sind sehr hitzeempfindlich
+
+
+
+
+
+Um diese Frage zu beantworten, muss man sich die verschiedenen alternativen anschauen, von denen alle ihre Vor- und Nachteile haben, wobei natürlich auch persönliche Parameter, wie das Vorhandensein eines Druckers, oder eben einer Fräse, eine Rolle spielen. Wenn man bei der Arbeit eh eine 5-Achs Fräse stehen hat, die am Wochenende aus riesigen Alu-Reststücken perfekte Formen fräsen kann, und außerdem schon geübt im Umgang mit Faserverbundwerkstoffen ist, so ist 3D-Druck eher uninteressant. Wenn man jedoch eh einen 3D-Drucker hat und verschiedene Auslegungen vergleichend testen möchte, bevor man einen teuren Formensatz fräsen lässt, dann bietet sich 3D-Druck als günstige Testbauweise an. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Um eine Einschätzung zu ermöglichen, habe ich verschiedene wesentliche Bauweisen in einer Tabelle zusammengefasst und nach mehreren Parametern bewertet. Hierbei wird sowohl die Konstruktion als auch der Bau betrachtet, notwendige Software wird als Werkzeug gewertet.
+
+
+Parameter:
+Einstiegshürden Material: Welche Werkzeuge / Anlagen sind notwendig?
+Einstiegshürden Wissen: Wie schwierig ist der Bau, bzw. der Umgang mit den Werkzeugen?
+Performance strukturell: Wie gut ist das Verhältnis von Gewicht zu Festigkeit?
+Performance aerodynamisch: Mit welcher Genauigkeit lassen sich komplexe Oberflächen umsetzen?
+Kosten + Kostenverlauf: Was kostet das erste Modell, was kosten nachfolgende Modelle?
+Reproduzierbarkeit: Wie hoch ist der Aufwand für andere das Modell nachzubauen?
+Beeinflussung der Umgebung: Braucht es eine Werkstatt, wird mit toxischen Substanzen gearbeitet?
+Klassischer Einsatzbereich: Kurze Zusammenfassung des häufigsten Einsatzbereichs
+
+	
+Verfahren:					Rippe + Folie / Beplankung					EPP und co.					Positivbauweise Styro					Negativbauweise
+
+Einstiegshürden Material: Unterschiedlich, Rippen können mit Freeware Tools gezeichnet und	Geringste Materialvoraussetzungen, fertig geschnittene	Hier ist der Aufwand für die Kerne ähnlich wie	Hohe Einstiegshürden, da allein das Material für				  von Hand geschliffen werden, dann sind jedoch nur einfache		Kerne können nach Maß online bestellt werden.		bei der Bauweise EPP und Co. Allerdings kommt	die Formen mehr kostet als so manches Modell.
+			  Geometrieen mit beschränkter Genauigkeit möglich. Alternativ		Auch wenn man selber schneiden will, braucht man	dazu noch die Beschichtung mit einem 		Außerdem braucht man die Möglichkeit ein Urmodell
+			  kann auch im CAD konstruiert und anschließend gelasert / gefräst	lediglich Schneidschablonen, einen Hiezdraht und	Faserverbundwerkstoff und / oder Holz, was	oder die Formen selber fräsen zu lassen, hinzu kommt
+			  werden, dann braucht es mindestens eine Fräse / Laser, dafür		etwas Übung.						den Einsatz einer (einfachen) Presse oder eines	die manuelle Nachbearbeitung und das meistens eher
+			  wird die Vervielfältigung einfacher. Außerdem benötigt man									Vakuumsystems voraussetzt.			teure Material für den Flieger selber.
+			  neben "normalem" Werkzeug noch ein Folienbügeleisen.
+
+
+Einstiegshürden Wissen:	  Gering, für einfache Geometrien ist kaum Vorwissen
+			  erforderlich.
+
+Performance strukturell:
+
+
+Performance aerodynamisch:
+
+
+Kosten + Kostenverlauf:
+
+
+Reproduzierbarkeit:
+
+
+Beeinflussung der Umgebung:
+
+
+Klassischer Einsatzbereich:
